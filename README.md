@@ -32,7 +32,7 @@ Added different colors for different charts.
 Set background color.
 All charts are styled to fit nicely on the dashboard.
 Final Insights
-Phones and Chairs sales have been the highest among those categories.
+Phones and Chairs sales have been the highest among tho⁶se categories.
 The highest profit and highest customer increased in 2017.
 California had the most sales of any other state.
 Tamara Chand, Raymond Buch, Sanjit Chand, Hunter Lopez and Adrian Barton these 5 customers making more profits.
